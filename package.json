@@ -1,0 +1,27 @@
+{
+  "name": "suid-js",
+  "version": "0.12.0",
+  "description": "Javascript implementation of Scoped Unique IDs",
+  "main": "suid.js",
+  "scripts": {
+    "test": "mocha suid.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/download/suid-js.git"
+  },
+  "keywords": [
+    "unique",
+    "suid"
+  ],
+  "author": "Stijn de Witt <StijnDeWitt@hotmail.com> (https://stijndewitt.com)",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/download/suid-js/issues"
+  },
+  "homepage": "https://github.com/download/suid-js#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
