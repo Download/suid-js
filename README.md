@@ -5,7 +5,7 @@
 
 > See the main [project](https://download.github.io/suid/) for details.
 
-[![version](https://img.shields.io/npm/v/just-wait.svg)](https://npmjs.org/package/just-wait)
+[![version](https://img.shields.io/npm/v/suid-js.svg)](https://npmjs.org/package/suid-js)
 [![license](https://img.shields.io/badge/license-CC--BY--4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![build status](https://api.travis-ci.org/Download/suid-js.svg?branch=master)](https://travis-ci.org/Download/suid-js)
 ![mind BLOWN](https://img.shields.io/badge/mind-BLOWN-ff69b4.svg)
@@ -100,6 +100,9 @@ alert(vals) // [14she, 14shf, 14shg]
 var ids = Suid.from(vals)
 alert(ids)  // [14she, 14shf, 14shg]
 ```
+
+## Issues
+Bugs, feedback, questions and discussion are welcome on the [issue tracker](https://github.com/download/suid-js/issues).
 
 ## Copyright
 Copyright (c) 2017 by [Stijn de Witt](http://stijndewitt.com). Some rights reserved.
