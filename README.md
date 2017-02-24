@@ -1,6 +1,8 @@
 # suid-js
 ### Javascript implementation of Scoped Unique IDs
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/suid-js.svg)](https://greenkeeper.io/)
+
 **Suids are distributed, Scoped, Unique IDs that are short and sweet.**
 
 > See the main [project](https://download.github.io/suid/) for details.
