@@ -52,7 +52,7 @@ alert(id) // 14she
 ### Get a Suid's underlying value
 ```js
 var id = new Suid("14she")
-alert(id.value) // 1903154
+alert(id.valueOf()) // 1903154
 ```
 
 ### Convert a Suid to a number
